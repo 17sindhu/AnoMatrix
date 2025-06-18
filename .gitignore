@@ -1,0 +1,14 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore model artifacts if needed
+*.joblib
+*.json
+
+# OS and editor files
+.DS_Store
+.vscode/
